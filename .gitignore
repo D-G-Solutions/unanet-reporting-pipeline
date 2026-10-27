@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+demo-output/
+real_source/
+exports/
+*.sqlite
+*.abf
