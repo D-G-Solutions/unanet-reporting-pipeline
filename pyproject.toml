@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unanet-reporting-pipeline"
+version = "0.2.1"
+description = "Unanet reporting extraction and preparation"
+requires-python = ">=3.12"
+
+[project.optional-dependencies]
+odbc = ["pyodbc>=5,<6"]
+azure = ["azure-identity>=1.17,<2", "azure-storage-blob>=12.20,<13"]
+
+[project.scripts]
+unanet-refresh = "unanet_pipeline.refresh:main"
+unanet-pipeline = "unanet_pipeline.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
