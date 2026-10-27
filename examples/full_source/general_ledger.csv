@@ -1,0 +1,2 @@
+account_key,credit_amount,customer_key,debit_amount,description,document_number,feature,fiscal_month_key,general_ledger_key,instance_credit_amount,instance_debit_amount,local_credit_amount,local_currency,local_debit_amount,organization_key,person_key,post_date,project_key,quantity,reference,transaction_currency,transaction_date
+1,1,1,1,Synthetic,Synthetic,1,1,1,1,1,1,1,1,1,1,2026-09-01,1,1,Synthetic,1,2026-09-01

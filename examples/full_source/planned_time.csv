@@ -1,0 +1,2 @@
+begin_date,bill_rate,bill_rate_currency,bill_rate_source,block_out,cost_rate,cost_rate_currency,cost_rate_source,cost_struct_labor_key,end_date,ic_cost_rate,ic_cost_struct_labor_key,labor_category_key,location_key,person_key,plan_set_key,planned_hours,planned_time_key,project_key,resource_request_key,task_key,use_wbs_dates
+2026-09-04,1,1,Synthetic,Synthetic,1,1,Synthetic,1,2026-09-07,1,1,1,1,1,1,16,1,1,1,1,Synthetic

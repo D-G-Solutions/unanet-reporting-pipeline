@@ -1,0 +1,9 @@
+{
+  "rows": 4,
+  "cost_totals_by_source": {
+    "Labor": "200.00",
+    "Expense": "50.00",
+    "Financial Document Expense": "125.00",
+    "Financial Document Labor": "80.00"
+  }
+}

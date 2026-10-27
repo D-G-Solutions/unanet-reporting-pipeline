@@ -1,0 +1,4 @@
+account_number,code,cost_element_key,cost_element_type,description,sort_order
+Synthetic,Labor,1,Synthetic,Synthetic,1
+Synthetic,Travel,3,Synthetic,Synthetic,1
+Synthetic,Contractor,12,Synthetic,Synthetic,1

@@ -1,0 +1,2 @@
+adjustment_date,adjustment_status,begin_date,comments,control_key,date_completed,dilution_bus_hours,dilution_bus_hours_factor,dilution_calc_req,dilution_factor,dilution_hours,historical,last_drawer_state,last_updated_timestamp,person_key,person_time_key,punch_clock_timesheet,status,time_period_key
+2026-09-01,Synthetic,2026-09-01,Synthetic,1,2026-09-01,1,1,Synthetic,1,1,Synthetic,Synthetic,2026-09-01,1,1,Synthetic,Synthetic,1

@@ -1,0 +1,8 @@
+{
+  "model_snapshot": "2026-10-08",
+  "source_attachment": "Enterprise Dashboard_PROJECT.Report.zip",
+  "attachment_sha256": "3bbb8ab444bde720fb115e7504d57c67acf863d106715412f06f6c565ce4ca7b",
+  "source_count": 34,
+  "output_count": 26,
+  "validation": "28 local unit tests and synthetic full-source demo; no live Unanet or Azure test performed"
+}
